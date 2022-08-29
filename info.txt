@@ -1,0 +1,1 @@
+This project is to help me understand some basic OOP concept.
